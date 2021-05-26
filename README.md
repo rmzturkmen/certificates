@@ -8,4 +8,4 @@ In this repository you can see my certificates in 4 categories.
 
 3. Course Certificates (17)
 
-4. Project Certificates (14)
+4. Project Certificates (15)
