@@ -6,7 +6,7 @@ In this repository you can see my certificates in 4 categories.
 
 2. Specialization Certificates (3)
 
-3. Course Certificates (37)
+3. Course Certificates (38)
 
 4. Project Certificates (15)
 
