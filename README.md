@@ -2,7 +2,7 @@
 
 In this repository you can see my certificates in 4 categories.
 
-1. Professional Certificates (12)
+1. Professional Certificates (13)
 
 2. Specialization Certificates (8)
 
