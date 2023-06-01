@@ -21,7 +21,7 @@ In this repository you can see my certificates in 4 categories.
 | Microsoft_Certified_AZ-400                   | 22 December 2022  | 23 December 2023  |
 | AWS Certified Security - Specialty           | 19 April 2023     |  19 April 2026    |
   
-## 2. Specialization Certificates (10)
+## 2. Specialization Certificates (11)
 
 ## 3. Course Certificates (72)
 
