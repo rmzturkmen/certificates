@@ -4,7 +4,7 @@ In this repository you can see my certificates in 4 categories.
 
 ## 1. Professional Certificates (15)
 
-As is known, the validity date of some of your certificates is extended when you pass the professional exams at AWS. For example, Cloud Practioner and SysOps certificates have been extended by AWS when you get the DevOps certification.
+As is known, the validity date of some of your certificates is extended when you pass the professional exams at AWS. For example, Cloud Practioner and SysOps certificates have been extended by AWS when you get the DevOps-Pro certification.
    
 | Certification Name                           | Receiving date    | Validity date     |
 | ---                                          | ---               | ---               |
