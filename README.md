@@ -29,8 +29,7 @@ As is known, the validity date of some of your certificates is extended when you
 | Certification Name                                       | Receiving date    | Validity date     |
 | ---                                                      | ---               | ---               |
 | AWS Fundamentals                                         | 02 January 2021   | -                 |
-| AWS-Certified-Solutions-Architect-Associate-
-  Hands-On-Digital-Cloud-Training                          | 29 December 2021  | -                 |
+| AWS-Certified-Solutions-Architect-Associate-Hands-On     | 29 December 2021  | -                 |
 | AWS-Certified-DevOps-Engineer Professional 2022-Hands-On | 29 December 2021  | -                 |
 | Microsoft Azure Exam AZ-900 Certification                | 21 April 2022     | -                 |
 | AWS Certified SysOps Administrator Associate 2022        | 16 May 2022       | -                 |
