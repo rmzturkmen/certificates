@@ -26,19 +26,20 @@ As is known, the validity date of some of your certificates is extended when you
   
 ## 2. Specialization Certificates (11)
 
-| Certification Name                                                            | Receiving date    | Validity date     |
-| ---                                                                           | ---               | ---               |
-| AWS Fundamentals                                                              | 02 January 2021   | -                 |
-| AWS-Certified-Solutions-Architect-Associate-Hands-On-Digital-Cloud-Training   | 29 December 2021  | -                 |
-| AWS-Certified-DevOps-Engineer Professional 2022-Hands-On                      | 29 December 2021  | -                 |
-| Microsoft Azure Exam AZ-900 Certification                                     | 21 April 2022     | -                 |
-| AWS Certified SysOps Administrator Associate 2022                             | 16 May 2022       | -                 |
-| Kubernetes Temelleri                                                          | 29 June 2022      | -                 |
-| Microsoft Azure Administrator AZ-104 Certification                            | 31 July 2022      | -                 |
-| C1-Nederlands-Certificaat                                                     | 10 January 2022   | -                 |
-| Certificaat Fries                                                             | 19 February 2022  | -                 |
-| AWS Certified Security Specialty                                              | 30 January 2023   | -                 |
-| Deploying Amazon Managed Containers Using Amazon EKS                          | 02 June 2023      | -                 |
+| Certification Name                                       | Receiving date    | Validity date     |
+| ---                                                      | ---               | ---               |
+| AWS Fundamentals                                         | 02 January 2021   | -                 |
+| AWS-Certified-Solutions-Architect-Associate-
+  Hands-On-Digital-Cloud-Training                          | 29 December 2021  | -                 |
+| AWS-Certified-DevOps-Engineer Professional 2022-Hands-On | 29 December 2021  | -                 |
+| Microsoft Azure Exam AZ-900 Certification                | 21 April 2022     | -                 |
+| AWS Certified SysOps Administrator Associate 2022        | 16 May 2022       | -                 |
+| Kubernetes Temelleri                                     | 29 June 2022      | -                 |
+| Microsoft Azure Administrator AZ-104 Certification       | 31 July 2022      | -                 |
+| C1-Nederlands-Certificaat                                | 10 January 2022   | -                 |
+| Certificaat Fries                                        | 19 February 2022  | -                 |
+| AWS Certified Security Specialty                         | 30 January 2023   | -                 |
+| Deploying Amazon Managed Containers Using Amazon EKS     | 02 June 2023      | -                 |
 
 ## 3. Course Certificates (75)
 
