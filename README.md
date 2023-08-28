@@ -2,7 +2,7 @@
 
 In this repository you can see my certificates in 4 categories.
 
-## 1. Professional Certificates (15)
+## 1. Professional Certificates (16)
 
 As is known, the validity date of some of your certificates is extended when you pass the professional exams at AWS. For example, Cloud Practioner and SysOps certificates have been extended by AWS when you get the DevOps-Pro certification.
    
@@ -23,7 +23,8 @@ As is known, the validity date of some of your certificates is extended when you
 | Microsoft_Certified_AZ-400                   | 22 December 2022  | 23 December 2023  |
 | AWS Certified Security - Specialty           | 19 April 2023     |  19 April 2026    |
 | AWS Certified DevOps Engineer - Professional | 12 June 2023      |  12 June 2026     |
-  
+| Microsoft_Certified_AZ-305                   | 28 August 2023    |  29 August 2024   |
+
 ## 2. Specialization Certificates (11)
 
 | Certification Name                                       | Receiving date    | Validity date     |
@@ -40,6 +41,6 @@ As is known, the validity date of some of your certificates is extended when you
 | AWS Certified Security Specialty                         | 30 January 2023   | -                 |
 | Deploying Amazon Managed Containers Using Amazon EKS     | 02 June 2023      | -                 |
 
-## 3. Course Certificates (75)
+## 3. Course Certificates (76)
 
 ## 4. Project Certificates (15)
