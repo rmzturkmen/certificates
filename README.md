@@ -29,6 +29,9 @@ As is known, the validity date of some of your certificates is extended when you
 
 | Certification Name                                       | Receiving date    | Validity date     |
 | ---                                                      | ---               | ---               |
+| B2-Schrijven                                             | 20 August 2019    | -                 |
+| B2-Spreken                                               | 18 August 2020    | -                 |
+| Certificaat Fries                                        | 19 February 2020  | -                 |
 | AWS Fundamentals                                         | 02 January 2021   | -                 |
 | AWS-Certified-Solutions-Architect-Associate-Hands-On     | 29 December 2021  | -                 |
 | AWS-Certified-DevOps-Engineer Professional 2022-Hands-On | 29 December 2021  | -                 |
@@ -37,7 +40,6 @@ As is known, the validity date of some of your certificates is extended when you
 | Kubernetes Temelleri                                     | 29 June 2022      | -                 |
 | Microsoft Azure Administrator AZ-104 Certification       | 31 July 2022      | -                 |
 | C1-Nederlands-Certificaat                                | 10 January 2022   | -                 |
-| Certificaat Fries                                        | 19 February 2022  | -                 |
 | AWS Certified Security Specialty                         | 30 January 2023   | -                 |
 | Deploying Amazon Managed Containers Using Amazon EKS     | 02 June 2023      | -                 |
 
