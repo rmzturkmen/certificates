@@ -25,7 +25,7 @@ As is known, the validity date of some of your certificates is extended when you
 | AWS Certified DevOps Engineer - Professional | 12 June 2023      |  12 June 2026     |
 | Microsoft_Certified_AZ-305                   | 28 August 2023    |  29 August 2024   |
 
-## 2. Specialization Certificates (11)
+## 2. Specialization Certificates (19)
 
 | Certification Name                                       | Receiving date    | Validity date     |
 | ---                                                      | ---               | ---               |
@@ -35,6 +35,12 @@ As is known, the validity date of some of your certificates is extended when you
 | AWS Fundamentals                                         | 02 January 2021   | -                 |
 | AWS-Certified-Solutions-Architect-Associate-Hands-On     | 29 December 2021  | -                 |
 | AWS-Certified-DevOps-Engineer Professional 2022-Hands-On | 29 December 2021  | -                 |
+| Terraform-Getting-Started                                | 13 January 2022   | -                 |
+| Terraform Deep Dive                                      | 17 January 2022   | -                 |
+| Implementing Terraform with AWS                          | 19 January 2022   | -                 |
+| Implementing Terraform on Microsoft  Azure               | 26 February 2022  | -                 |
+| Getting Started with Terraform Cloud                     | 09 March 2022     | -                 |
+| Implementing Terraform with Google Cloud                 | 11 March 2022     | -                 |
 | Microsoft Azure Exam AZ-900 Certification                | 21 April 2022     | -                 |
 | AWS Certified SysOps Administrator Associate 2022        | 16 May 2022       | -                 |
 | Kubernetes Temelleri                                     | 29 June 2022      | -                 |
@@ -43,6 +49,6 @@ As is known, the validity date of some of your certificates is extended when you
 | AWS Certified Security Specialty                         | 30 January 2023   | -                 |
 | Deploying Amazon Managed Containers Using Amazon EKS     | 02 June 2023      | -                 |
 
-## 3. Course Certificates (76)
+## 3. Course Certificates (70)
 
 ## 4. Project Certificates (15)
