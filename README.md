@@ -51,6 +51,6 @@ As is known, the validity date of some of your certificates is extended when you
 | Jenkins                                                  | 29 September 2023 | -                 |
 | Terraform Challanges                                     | 29 September 2023 | -                 |
 
-## 3. Course Certificates (71)
+## 3. Course Certificates (72)
 
 ## 4. Project Certificates (15)
