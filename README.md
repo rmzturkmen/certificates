@@ -25,7 +25,7 @@ As is known, the validity date of some of your certificates is extended when you
 | AWS Certified DevOps Engineer - Professional | 12 June 2023      |  12 June 2026     |
 | Microsoft_Certified_AZ-305                   | 28 August 2023    |  29 August 2024   |
 
-## 2. Specialization Certificates (21)
+## 2. Specialization Certificates (22)
 
 | Certification Name                                       | Receiving date    | Validity date     |
 | ---                                                      | ---               | ---               |
@@ -50,6 +50,7 @@ As is known, the validity date of some of your certificates is extended when you
 | Deploying Amazon Managed Containers Using Amazon EKS     | 02 June 2023      | -                 |
 | Jenkins                                                  | 29 September 2023 | -                 |
 | Terraform Challanges                                     | 29 September 2023 | -                 |
+| Certified Kubernetes Administrator(CKA) Practice Tests   | 03 October 2023   | -                 |
 
 ## 3. Course Certificates (72)
 
