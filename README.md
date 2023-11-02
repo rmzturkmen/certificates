@@ -2,7 +2,7 @@
 
 In this repository you can see my certificates in 4 categories.
 
-## 1. Professional Certificates (16)
+## [1. Professional Certificates (16)](https://github.com/rmzturkmen/certificates/tree/main/01_Professional%20Certificates)
 
 As is known, the validity date of some of your certificates is extended when you pass the professional exams at AWS. For example, Cloud Practioner and SysOps certificates have been extended by AWS when you get the DevOps-Pro certification.
    
@@ -25,7 +25,7 @@ As is known, the validity date of some of your certificates is extended when you
 | AWS Certified DevOps Engineer - Professional | 12 June 2023      |  12 June 2026     |
 | Microsoft_Certified_AZ-305                   | 28 August 2023    |  29 August 2024   |
 
-## 2. Specialization Certificates (26)
+## [2. Specialization Certificates (26)](https://github.com/rmzturkmen/certificates/tree/main/02_Specialization%20Certificates)
 
 | Certification Name                                       | Receiving date    | Validity date     |
 | ---                                                      | ---               | ---               |
@@ -56,6 +56,6 @@ As is known, the validity date of some of your certificates is extended when you
 | B2-Luisteren                                             | 17 October 2023   | -                 |
 | Nederlands als tweede taal Programma II (B2)             | 17 October 2023   | -                 |
 
-## 3. Course Certificates (72)
+## [3. Course Certificates (78)](https://github.com/rmzturkmen/certificates/tree/main/03_Course%20Certificates)
 
-## 4. Project Certificates (15)
+## [4. Project Certificates (15)](https://github.com/rmzturkmen/certificates/tree/main/04_Projects%20Certificates)
