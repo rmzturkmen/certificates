@@ -26,7 +26,7 @@ As is known, the validity date of some of your certificates is extended when you
 | Microsoft_Certified_AZ-305                   | 28 August 2023    |  29 August 2024   |
 | Certified Kubernetes Administrator (CKA)     | 10 November 2023  | 10 November 2026  |
 
-## [2. Specialization Certificates (30)](https://github.com/rmzturkmen/certificates/tree/main/02_Specialization%20Certificates)
+## [2. Specialization Certificates (31)](https://github.com/rmzturkmen/certificates/tree/main/02_Specialization%20Certificates)
 
 | Certification Name                                       | Receiving date    | Validity date     |
 | ---                                                      | ---               | ---               |
@@ -60,6 +60,7 @@ As is known, the validity date of some of your certificates is extended when you
 | DevelopingCICD Solutions with Azure DevOps               | 15 November 2023  | -                 |
 | Kubernetes GitOps with ArgoCD                            | 16 November 2023  | -                 |
 | Kubernetes Package Management with Helm                  | 17 November 2023  | -                 |
+|Deploying Enterprise Azure Secure Landing Zones with Terraform| 17 November 2023  | -             |
 
 ## [3. Course Certificates (78)](https://github.com/rmzturkmen/certificates/tree/main/03_Course%20Certificates)
 
