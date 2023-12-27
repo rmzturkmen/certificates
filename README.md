@@ -67,6 +67,6 @@ As is known, the validity date of some of your certificates is extended when you
 
 
 
-## [3. Course Certificates (78)](https://github.com/rmzturkmen/certificates/tree/main/03_Course%20Certificates)
+## [3. Course Certificates (80)](https://github.com/rmzturkmen/certificates/tree/main/03_Course%20Certificates)
 
 ## [4. Project Certificates (15)](https://github.com/rmzturkmen/certificates/tree/main/04_Projects%20Certificates)
