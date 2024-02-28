@@ -26,7 +26,7 @@ As is known, the validity date of some of your certificates is extended when you
 | Microsoft_Certified_AZ-305                   | 28 August 2023    |  29 August 2024   |
 | Certified Kubernetes Administrator (CKA)     | 10 November 2023  | 10 November 2026  |
 
-## [2. Specialization Certificates (35)](https://github.com/rmzturkmen/certificates/tree/main/02_Specialization%20Certificates)
+## [2. Specialization Certificates (36)](https://github.com/rmzturkmen/certificates/tree/main/02_Specialization%20Certificates)
 
 | Certification Name                                       | Receiving date    | Validity date     |
 | ---                                                      | ---               | ---               |
@@ -65,7 +65,7 @@ As is known, the validity date of some of your certificates is extended when you
 | Power BI Essential Training                              | 21 November 2023  | -                 |
 | Kubernetes Provisioning with Terraform and Kubespray     | 21 November 2023  | -                 |
 | AWS Certified Developer  Associate DVAC02                | 26 February 2024  | -                 |
-
+| Cloud Architecture Advanced Concepts                     | 28 February 2024  | -                 |
 
 
 ## [3. Course Certificates (81)](https://github.com/rmzturkmen/certificates/tree/main/03_Course%20Certificates)
