@@ -68,6 +68,6 @@ As is known, the validity date of some of your certificates is extended when you
 | Cloud Architecture Advanced Concepts                     | 28 February 2024  | -                 |
 
 
-## [3. Course Certificates (81)](https://github.com/rmzturkmen/certificates/tree/main/03_Course%20Certificates)
+## [3. Course Certificates (82)](https://github.com/rmzturkmen/certificates/tree/main/03_Course%20Certificates)
 
 ## [4. Project Certificates (15)](https://github.com/rmzturkmen/certificates/tree/main/04_Projects%20Certificates)
