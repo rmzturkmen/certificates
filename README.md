@@ -2,16 +2,16 @@
 
 In this repository you can see my certificates in 4 categories.
 
-## [1. Professional Certificates (19)](https://github.com/rmzturkmen/certificates/tree/main/01_Professional%20Certificates)
+## [1. Professional Certificates (20)](https://github.com/rmzturkmen/certificates/tree/main/01_Professional%20Certificates)
 
 As is known, the validity date of some of your certificates is extended when you pass the professional exams at AWS. For example, Cloud Practioner and SysOps certificates have been extended by AWS when you get the DevOps-Pro certification.
    
 | Certification Name                           | Receiving date    | Validity date     |
 | ---                                          | ---               | ---               |
-| AWS Certified Cloud Practitioner Certificate | 31 January 2021   | 11 June 2027      |
+| AWS Certified Cloud Practitioner Certificate | 31 January 2021   | 04 December 2027  |
 | AWS & DevOps Engineer Course                 | 15 January 2021   | -                 |
 | IBM Data Science                             | 13 September 2021 | -                 |
-| AWS Certified Solutions Architect - Associate| 10 December 2021  | 10 December 2024  |
+| AWS Certified Solutions Architect - Associate| 10 December 2021  | 04 December 2027  |
 | HashiCorp_Certified_Terraform_Associate      | 10 April 2022     | 10 April 2024     |
 | Microsoft_Certified_AZ_900                   | 01 May 2022       | -                 |
 | Microsoft_Certified_DP_900                   | 23 May 2022       | -                 |
@@ -27,6 +27,8 @@ As is known, the validity date of some of your certificates is extended when you
 | Certified Kubernetes Administrator (CKA)     | 10 November 2023  | 10 November 2026  |
 | Google Project Management                    | 23 May 2024       | -                 |
 | AWS Certified Developer - Associate          | 11 June 2024      | 11 June 2027      |
+| AWS Certified Solutions Architect - Professional| 04 December 2024  | 04 December 2027  |
+
 
 ## [2. Specialization Certificates (37)](https://github.com/rmzturkmen/certificates/tree/main/02_Specialization%20Certificates)
 
