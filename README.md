@@ -2,7 +2,7 @@
 
 In this repository you can see my certificates in 4 categories.
 
-## [1. Professional Certificates (20)](https://github.com/rmzturkmen/certificates/tree/main/01_Professional%20Certificates)
+## [1. Professional Certificates (22)](https://github.com/rmzturkmen/certificates/tree/main/01_Professional%20Certificates)
 
 As is known, the validity date of some of your certificates is extended when you pass the professional exams at AWS. For example, Cloud Practioner and SysOps certificates have been extended by AWS when you get the DevOps-Pro certification.
    
@@ -28,9 +28,10 @@ As is known, the validity date of some of your certificates is extended when you
 | Google Project Management                    | 23 May 2024       | -                 |
 | AWS Certified Developer - Associate          | 11 June 2024      | 11 June 2027      |
 | AWS Certified Solutions Architect - Professional| 04 December 2024  | 04 December 2027  |
+| AWS Certified AI Practitioner                | 17 January 2025   | 17 January 2028   |
+| Microsoft_Certified_AI-900                   | 30 January 2025   | -                  |
 
-
-## [2. Specialization Certificates (37)](https://github.com/rmzturkmen/certificates/tree/main/02_Specialization%20Certificates)
+## [2. Specialization Certificates (38)](https://github.com/rmzturkmen/certificates/tree/main/02_Specialization%20Certificates)
 
 | Certification Name                                       | Receiving date    | Validity date     |
 | ---                                                      | ---               | ---               |
@@ -71,6 +72,7 @@ As is known, the validity date of some of your certificates is extended when you
 | AWS Certified Developer  Associate DVAC02                | 26 February 2024  | -                 |
 | Cloud Architecture Advanced Concepts                     | 28 February 2024  | -                 |
 | AWS Certified Solutions Architect Professional SAP-CO2   | 02 August 2024    | -                 |
+| AWS AI Practioner                                        | 13 January 2025   | -                 |
 
 ## [3. Course Certificates (85)](https://github.com/rmzturkmen/certificates/tree/main/03_Course%20Certificates)
 
