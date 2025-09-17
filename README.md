@@ -16,14 +16,14 @@ As is known, the validity date of some of your certificates is extended when you
 | Microsoft_Certified_AZ_900                   | 01 May 2022       | -                 |
 | Microsoft_Certified_DP_900                   | 23 May 2022       | -                 |
 | Microsoft_Certified_SC_900                   | 07 June 2022      | -                 |
-| Microsoft_Certified_AZ_104                   | 05 September 2022 | 06 September 2025 |
-| Microsoft_Certified_AZ-204                   | 03 October 2022   | 04 October 2025   |
+| Microsoft_Certified_AZ_104                   | 05 September 2022 | 06 September 2026 |
+| Microsoft_Certified_AZ-204                   | 03 October 2022   | 04 October 2026   |
 | AWS Certified SysOps Administrator - Associate| 31 October 2022  |  12 June 2026     |
-| Microsoft_Certified_AZ-700                   | 05 December 2022  | 06 December 2025  |
-| Microsoft_Certified_AZ-400                   | 22 December 2022  | 23 December 2025  |
+| Microsoft_Certified_AZ-700                   | 05 December 2022  | 06 December 2026  |
+| Microsoft_Certified_AZ-400                   | 22 December 2022  | 23 December 2026  |
 | AWS Certified Security - Specialty           | 19 April 2023     |  19 April 2026    |
 | AWS Certified DevOps Engineer - Professional | 12 June 2023      |  12 June 2026     |
-| Microsoft_Certified_AZ-305                   | 28 August 2023    |  29 August 2025   |
+| Microsoft_Certified_AZ-305                   | 28 August 2023    |  29 August 2026   |
 | Certified Kubernetes Administrator (CKA)     | 10 November 2023  | 10 November 2026  |
 | Google Project Management                    | 23 May 2024       | -                 |
 | AWS Certified Developer - Associate          | 11 June 2024      | 11 June 2027      |
