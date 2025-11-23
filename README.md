@@ -30,7 +30,7 @@ As is known, the validity date of some of your certificates is extended when you
 | AWS Certified Solutions Architect - Professional| 04 December 2024  | 04 December 2027  |
 | AWS Certified AI Practitioner                | 17 January 2025   | 17 January 2028   |
 | Microsoft_Certified_AI-900                   | 30 January 2025   | -                 |
-| AWS Certified Data Engineer - Associate      | 22 November 2025  | 22 November 2025  |
+| AWS Certified Data Engineer - Associate      | 22 November 2025  | 22 November 2028  |
 
 ## [2. Specialization Certificates (38)](https://github.com/rmzturkmen/certificates/tree/main/02_Specialization%20Certificates)
 
