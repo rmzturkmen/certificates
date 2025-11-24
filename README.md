@@ -8,7 +8,7 @@ As is known, the validity date of some of your certificates is extended when you
    
 | Certification Name                           | Receiving date    | Validity date     |
 | ---                                          | ---               | ---               |
-| AWS Certified Cloud Practitioner Certificate | 31 January 2021   | 04 December 2027  |
+| AWS Certified Cloud Practitioner Certificate | 31 January 2021   | 22 November 2028  |
 | AWS & DevOps Engineer Course                 | 15 January 2021   | -                 |
 | IBM Data Science                             | 13 September 2021 | -                 |
 | AWS Certified Solutions Architect - Associate| 10 December 2021  | 04 December 2027  |
